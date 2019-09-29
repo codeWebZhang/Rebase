@@ -13,8 +13,7 @@
     "noImplicitAny": false,
     "strictNullChecks": false,
     "allowSyntheticDefaultImports": true,
-    "emitDecoratorMetadata": true,
-    "experimentalDecorators": true
+    "emitDecoratorMetadata": true
   },
   "compileOnSave": false,
   "include": ["./src/**/*"],
