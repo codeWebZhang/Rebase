@@ -18,6 +18,5 @@
   },
   "compileOnSave": false,
   "include": ["./src/**/*"],
-  "exclude": ["node_modules", "dist"],
-  "types": ["typePatches"]
+  "exclude": ["node_modules", "dist"]
 }
